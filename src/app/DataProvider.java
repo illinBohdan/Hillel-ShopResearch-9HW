@@ -1,3 +1,4 @@
+package app;
 // Надання даних через різний тип масиву
 public class DataProvider {
 
